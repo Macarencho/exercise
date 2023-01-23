@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Funcional_progr", "Funcional_progr\Funcional_progr.pyproj", "{86AE0B60-1A08-4A7A-A98F-48695F5A386A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AE0B60-1A08-4A7A-A98F-48695F5A386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AE0B60-1A08-4A7A-A98F-48695F5A386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58000E14-78EE-4056-867C-D33203450F7E}
+	EndGlobalSection
+EndGlobal
